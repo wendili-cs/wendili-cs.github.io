@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Experience
+Experience
 ======
-* Machine Learning Group, Microsoft Research Asia, research intern, 2020-2021 -->
+* Machine Learning Group, Microsoft Research Asia, research intern, 2020-2021
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 * B.E. in Computer Science and Technology, South China University of Technology, 2016-2020
 * Exchange Program for Fall 2019, the University of California, Berkeley, 2019
   
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -29,4 +29,4 @@ Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
