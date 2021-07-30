@@ -1,7 +1,7 @@
 # main links links
 main:
-#   - title: "Publications"
-#     url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Projects"
     url: /projects/    
@@ -9,8 +9,8 @@ main:
   - title: "Awards"
     url: /awards/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "CV"
+    url: /cv/
     
   - title: "My Works"
     url: /my-works/
