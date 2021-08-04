@@ -10,8 +10,7 @@ location: "Beijing, China"
 
 **Supervisor: Xiao Yang**
 
-* Focus on data feeding in stock market prediction. Propose a meta-learning-based method to assign weights to training examples.
-  1. For the stock market following different patterns in different periods, build a meta-model that selects the data with a similar pattern of the predicted period. We deal with the problem from temporal, spatial, and label aspects.
-  2. Splitting the patterns into linear and nonlinear parts, build an ensemble meta-model to do the example re-weighting.
-  3. Finished an academic paper ([*page*](https://wendili-cs.github.io/publication/2021UR-DDG-DA)), it is now in submission.
-* Writing the data selection part of the [*Qlib*](https://github.com/microsoft/qlib), a quantitative-research library for online trading.
+* Developed and maintained the quant platform [*Qlib*](https://github.com/microsoft/qlib), a quantitative-research library for online trading.
+* Focused on data feeding in stock market prediction. Proposed a meta-learning-based method to reweight samples. The meta-model learned to guide the retraining process of the base model by sample reweighting and aimed to improve the performance of the base model on unseen test data.
+* Designed *Meta-Controller*, *Reweighter* frameworks in *Qlib*, and merged the meta-model into the frameworks.
+* *Finished an academic paper ([*page*](https://wendili-cs.github.io/publication/2021UR-DDG-DA)), it is now in submission.

@@ -1,9 +1,9 @@
 ---
 title: "Multi-task Collaborative Population-based Hyperparameter Tuning for Deep Neural Networks"
 collection: talks
-date: 2020-01-20
+date: 2021-05-20
 permalink: /publication/2020UR-Multi-task-Collaborative-Hyperparameter-Tuning
-venue: 'journal submittion, under 2nd review'
+venue: 'journal submittion, under 3rd review'
 type: ""
 location: ""
 ---

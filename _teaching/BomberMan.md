@@ -11,16 +11,11 @@ This is a game made by Unreal Engine 4. It is type of RPG game.
 
 Download
 ======
-The game can be downloaded here (7 compressed volumes):
+The game can be downloaded here:
 
-[Part 1](https://wendili-cs.github.io/files/BombMan_V1.0.part01.rar)
-[Part 2](https://wendili-cs.github.io/files/BombMan_V1.0.part02.rar)
-[Part 3](https://wendili-cs.github.io/files/BombMan_V1.0.part03.rar)
-[Part 4](https://wendili-cs.github.io/files/BombMan_V1.0.part04.rar)
-[Part 5](https://wendili-cs.github.io/files/BombMan_V1.0.part05.rar)
-[Part 6](https://wendili-cs.github.io/files/BombMan_V1.0.part06.rar)
-[Part 7](https://wendili-cs.github.io/files/BombMan_V1.0.part07.rar)
+[Baidu Netdisk (提取码：abcd)](https://pan.baidu.com/s/1o4GP_V25B4hpbS7cjfw9RQ)
 
+[OneDrive](https://1drv.ms/u/s!ArJJv2nefUiVgnVMoUAQJs2JN5MD?e=WxCgKr)
 
 Introduction
 ======
