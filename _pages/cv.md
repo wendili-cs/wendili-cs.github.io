@@ -11,7 +11,7 @@ redirect_from:
 
 Experience
 ======
-* Machine Learning Group, Microsoft Research Asia, research intern, 2020-2021
+* Machine Learning Group, Microsoft Research Asia, research assistant, 2020-2021
 
 Education
 ======
