@@ -1,9 +1,9 @@
 ---
-title: "Multi-task Collaborative Population-based Hyperparameter Tuning for Deep Neural Networks"
+title: "Population-based Hyperparameter Tuning with Multi-task Collaboration"
 collection: talks
 date: 2021-05-20
-permalink: /publication/2020UR-Multi-task-Collaborative-Hyperparameter-Tuning
-venue: 'journal submittion, under 3rd review'
+permalink: /publication/2021TNNLS-Multi-task-Collaborative-Hyperparameter-Tuning
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 type: ""
 location: ""
 ---
@@ -13,4 +13,3 @@ Wendi Li, Ting Wang, Wing W. Y. Ng
 
 * The results show significant improvements in generalization abilities yielded by neural networks trained using our method and better performances achieved by the multi-task meta-learning concept.
 
-It is now under review...
