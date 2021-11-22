@@ -12,3 +12,4 @@ location: "Guangzhou, China"
 
 * Focused on a learning to learn problem, which aimed to automatically learn the hyperparameters of deep neural networks by using a LSTM-based predictor.
 * Organized group meetings every week to introduce the academic papers they read.
+* Finished an academic paper ([*page*](https://wendili.org/publication/2021NC-HELP-An-LSTM-Approach)), published in *Neurocomputing*.
