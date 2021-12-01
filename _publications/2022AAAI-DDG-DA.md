@@ -1,9 +1,9 @@
 ---
 title: "DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation"
 collection: talks
-date: 2021-02-08
+date: 2022-02-22
 permalink: /publication/2022AAAI-DDG-DA
-venue: 'AAAI 2022'
+venue: 'AAAI'
 type: ""
 location: ""
 ---
