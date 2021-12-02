@@ -12,4 +12,4 @@ location: "Guangzhou, China"
 
 * Proposed a population-based hyperparameter tuning framework combining multi-task collaboration. For the tasks in the task pool, it could find hyperparameter configurations that worked for the current task, which could also be put into use in other tasks after slightly re-tuned.
 * The results showed significant improvements in generalization abilities yielded by neural networks trained using our method and better performances achieved by the multi-task meta-learning concept.
-* Finished an academic paper ([*page*](https://wendili.org/publication/2021TNNLS-Multi-task-Collaborative-Hyperparameter-Tuning)), published in *IEEE Transactions on Neural Networks and Learning Systems*.
+* Finished an academic paper ([*page*](https://wendili.org/publication/2022TNNLS-Multi-task-Collaborative-Hyperparameter-Tuning)), published in *IEEE Transactions on Neural Networks and Learning Systems*.
