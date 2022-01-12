@@ -9,6 +9,9 @@ location: ""
 ---
 Wendi Li, Xiao Yang, Weiqing Liu, Yingce Xia, Jiang Bian
 
+Paper link: [[*arXiv*](https://arxiv.org/abs/2201.04038)] [[*code*](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA)]
+
+
 * Proposed a meta-learning method DDG-DA for concept drift adaptation. The meta-model learns to guide the retraining process of the base model by sample reweighting and aims to improve the performance of the base model on unseen test data.
 * The meta-model improved performance by $11.3\%$ in the signal-based metrics, and $46.7\%$ in the portfolio-based metrics compared to the baseline.
 
