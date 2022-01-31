@@ -1,7 +1,7 @@
 ---
 title: "Population-based Hyperparameter Tuning with Multi-task Collaboration"
 collection: talks
-date: 2022-03-01
+date: 2021-12-08
 permalink: /publication/2022TNNLS-Multi-task-Collaborative-Hyperparameter-Tuning
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 type: ""
