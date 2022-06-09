@@ -18,7 +18,7 @@ Education
 ======
 * M.S. in Computer Science, University of Wisconsin-Madison, 2021.09-2023.05
 * B.E. in Computer Science and Technology, South China University of Technology, 2016.09-2020.07
-* Exchange Program for Fall 2019, the University of California, Berkeley, 2019.08-2020.01
+* Exchange Program for Fall 2019, University of California, Berkeley, 2019.08-2020.01
   
 Publications
 ======
