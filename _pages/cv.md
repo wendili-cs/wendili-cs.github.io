@@ -11,13 +11,14 @@ redirect_from:
 
 Experience
 ======
-* Machine learning intern, Microsoft Research Asia, 2020-2021
+* Software Engineer Intern, TikTok, 2022.06-2022.09
+* Machine Learning Intern, Microsoft Research Asia, 2020.04-2021.07
 
 Education
 ======
-* M.S. in Computer Science, University of Wisconsin-Madison, 2021-2023
-* B.E. in Computer Science and Technology, South China University of Technology, 2016-2020
-* Exchange Program for Fall 2019, the University of California, Berkeley, 2019
+* M.S. in Computer Science, University of Wisconsin-Madison, 2021.09-2023.05
+* B.E. in Computer Science and Technology, South China University of Technology, 2016.09-2020.07
+* Exchange Program for Fall 2019, the University of California, Berkeley, 2019.08-2020.01
   
 Publications
 ======
