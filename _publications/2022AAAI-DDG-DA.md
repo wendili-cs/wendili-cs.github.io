@@ -11,6 +11,7 @@ Wendi Li, Xiao Yang, Weiqing Liu, Yingce Xia, Jiang Bian
 
 Paper link: [[*arXiv*](https://arxiv.org/abs/2201.04038)]
 [[*CODE*](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA)]
+[[*POSTER*](https://wendili-cs.github.io/files/DDGDA_poster.pdf)]
 [[*REPORT* (Chinese)](https://www.msra.cn/zh-cn/news/features/aaai-2022)]
 
 
