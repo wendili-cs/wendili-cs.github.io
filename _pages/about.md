@@ -12,6 +12,6 @@ Welcome to my homepage. ![]( https://visitor-badge.glitch.me/badge?page_id=wendi
 
 About Me
 ======
-Hi, I am Wendi Li, received the B.Eng. degree in computer science and technology from the South China University of Technology. I am currently pursuing the M.Sc. degree in computer science at the University of Wisconsin-Madison. I worked as a machine learning intern at Microsoft Research Asia for one year during the COVID. My hobbies include photography, ping-pong ball, and archery. Nice to meet you!
+Hi, I am Wendi Li, received the B.Eng. degree in computer science and technology from the South China University of Technology. I am currently pursuing the M.Sc. degree in computer science at the University of Wisconsin-Madison. I had worked as a software engineer intern at TikTok and a machine learning intern at Microsoft Research Asia. My hobbies include photography, ping-pong ball, and archery. Nice to meet you!
 
 <center><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BAZRZdbyfCkOYlFbYXw_h2Su4qro_fvOB6k5Kh59xSA&cl=ffffff&w=a"></script></center>
