@@ -13,7 +13,7 @@ Experience
 ======
 * Software Engineer, Epic, 2023.07-present
 * Software Engineer Intern, TikTok, 2022.06-2022.09
-* Machine Learning Intern, Microsoft Research Asia, 2020.04-2021.07
+* Machine Learning Researcher, Microsoft Research, 2020.04-2021.07
 
 Education
 ======
