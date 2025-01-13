@@ -11,7 +11,8 @@ redirect_from:
 
 Experience
 ======
-* Software Engineer, Epic, 2023.07-present
+* Software Development Engineer, Amazon Web Services, 2024.12-present
+* Software Engineer, Epic Systems, 2023.07-2024.09
 * Software Engineer Intern, TikTok, 2022.06-2022.09
 * Machine Learning Researcher, Microsoft Research, 2020.04-2021.07
 
