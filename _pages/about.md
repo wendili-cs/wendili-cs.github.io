@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. ![]( https://visitor-badge.glitch.me/badge?page_id=wendili-cs.homepage)
+Welcome to my homepage. ![visitors](https://visitor-badge.glitch.me/badge?page_id=wendili-cs.homepage&left_color=green&right_color=red)
 
 About Me
 ======
